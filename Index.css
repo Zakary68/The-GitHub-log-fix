@@ -58,7 +58,7 @@ body {
 }
 
 .footer {
-    background-color: #104929;
+    background-color: #12703b;;
     color: white;
     text-align: center;
     padding: 10px;
@@ -113,7 +113,7 @@ body {
     display: flex;
     align-items: center;
     padding: 20px;
-    background-color: #104929;
+    background-color: #12703b;
 }
 .header .logo {
     max-height: 50px;
@@ -132,9 +132,9 @@ body {
 
 
 .treehouse-card {
-    border: 1px solid #104929;
+    border: 1px solid #12703b;;
     padding: 15px;
-    background-color: #104929;
+    background-color: #12703b;;
     border-radius: 8px;
 }
 .treehouse-card img {
@@ -149,6 +149,6 @@ body {
 .footer {
     text-align: center;
     padding: 10px;
-    background-color: #104929;
+    background-color: #12703b;;
     margin-top: 20px;
 }
