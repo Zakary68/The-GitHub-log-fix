@@ -31,7 +31,7 @@ body {
 
 .main-content {
     background-image: url('forestbackground.png');
-    background-size: cover;
+    background-size: 100%;
     background-position: center;
     color: white;
     text-align: center;
