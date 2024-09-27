@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+.header {
+    background-color: #ffffff;
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.header img {
+    height: 50px;
+}
+
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+
+.main-content {
+    background-image: url('forestbackground.png');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+    min-height: 400px;
+}
+
+
+.main-content h1 {
+    font-size: 36px;
+}
+
+
+.main-content p {
+    font-size: 18px;
+}
+
+
+.services {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    padding: 20px;
+}
