@@ -56,3 +56,99 @@ body {
     gap: 10px;
     padding: 20px;
 }
+
+.footer {
+    background-color: #104929;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+
+
+
+
+
+.treehouse-types h1 {
+    font-size: 36px;
+    margin-bottom: 30px;
+}
+
+
+
+
+
+
+.treehouse-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+
+.treehouse-card h3 {
+    font-size: 24px;
+    color: white
+    margin-bottom: 10px;
+}
+
+
+.treehouse-card p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #ffffff;
+}
+
+
+
+
+.treehouse-types {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+.header {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background-color: #104929;
+}
+.header .logo {
+    max-height: 50px;
+    margin-right: 20px;
+}
+
+
+
+
+.main-content {
+    padding: 20px;
+    text-align: center;
+}
+
+
+
+
+.treehouse-card {
+    border: 1px solid #104929;
+    padding: 15px;
+    background-color: #104929;
+    border-radius: 8px;
+}
+.treehouse-card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+
+
+
+.footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #104929;
+    margin-top: 20px;
+}
